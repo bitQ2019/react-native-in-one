@@ -11,4 +11,4 @@ react-native best lib collections
 
 ### 轮播图
 
-[react-native-banner-carousel ✨39](https://github.com/f111fei/react-native-banner-carousel)
+[react-native-snap-carousel ✨4265](https://github.com/archriss/react-native-snap-carousel)
