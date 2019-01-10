@@ -12,3 +12,7 @@ react-native best lib collections
 ### 轮播图
 
 [react-native-snap-carousel ✨4265](https://github.com/archriss/react-native-snap-carousel)
+
+### 设备信息大全
+
+[react-native-device-info ✨3391](https://github.com/rebeccahughes/react-native-device-info)
