@@ -43,4 +43,21 @@ react-native best lib collections
   
   ```
   iOS 状态栏高度 20
+
+* ### absolute 元素居中显示
+
+  * 垂直居中
+  ```
+    marginBottom: "auto",
+    marginTop:"auto",
+    height:300，
+  ```
+  ***垂直居中要给height
   
+  * 水平居中
+  ```
+    marginLeft: "auto",
+    marginRight:"auto",
+    width:300,
+  ```
+  ***水平居中要给width
