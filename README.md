@@ -61,3 +61,8 @@ react-native best lib collections
     width:300,
   ```
   ***水平居中要给width
+* ### 阻止 Text 组件 fontSize 跟随用户设置变化
+  ```
+    Text.defaultProps = Text.defaultProps || {};
+    Text.defaultProps.allowFontScaling = false;
+  ```
