@@ -66,3 +66,5 @@ react-native best lib collections
     Text.defaultProps = Text.defaultProps || {};
     Text.defaultProps.allowFontScaling = false;
   ```
+  
+* ### Touchable 组件 absolute 时候无法出发点击事件(https://stackoverflow.com/questions/36938742/touchablehighlight-not-clickable-if-position-absolute)
